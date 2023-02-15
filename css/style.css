@@ -1,0 +1,56 @@
+body{
+    background-color: yellowgreen;
+}
+*{
+    box-sizing: ;
+}
+.container{
+    width: 1280px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+header{
+    width: 100%;
+    background-color: white;
+border: 1px solid gold;
+overflow: hidden;
+padding-left: 15px;
+padding-right: 15px;
+}
+.logo{
+    float: left;
+    
+}
+
+
+main{
+    width: 100%;
+
+}
+
+main section{
+    float: left;
+
+    background-color: lightgreen;
+}
+
+main aside{
+    float: right;
+    width:25% ;
+    padding: 15px;
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

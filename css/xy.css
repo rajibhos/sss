@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color: aqua;
+    width: 95%;
+    float:right;
+    /*header part*/
+
+}
+header{background-color:rgba(136, 85, 133, 0.979);
+width: 100%;
+float: left;
+
+}
+nav{width: 100%;
+float: left;
+}
+
+.hero-part{
+    width: 100%;
+    float: left;
+}
+
+
+
+
